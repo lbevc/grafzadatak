@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yU9YXT99hEDlrkT2yRWRSlMM3Ac7mnXJ5GF2IuxGq1j9fTYPMQLMV1KYTuY6bffeL1h9tKD7NSi27Dd1yVf11A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lana\\Desktop\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lana\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
